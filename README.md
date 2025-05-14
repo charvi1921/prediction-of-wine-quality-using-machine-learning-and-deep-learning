@@ -13,7 +13,3 @@ This study explores how machine learning can enhance wine quality assessment, ma
 
 Dataset is taken from kaggel : https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
 
-credits to as they already install in this 
-apple/ml-fastvlm
-taken by little informatiom from 
-apple/ml-fastvlm
