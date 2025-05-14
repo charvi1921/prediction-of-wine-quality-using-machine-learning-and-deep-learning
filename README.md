@@ -13,3 +13,15 @@ This study explores how machine learning can enhance wine quality assessment, ma
 
 Dataset is taken from kaggel : https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
 
+### Acknowledgments
+
+This project uses code and ideas from the official implementation of:
+
+**FastVLM: Efficient Vision Encoding for Vision-Language Models**, published by Apple researchers at CVPR 2025.
+
+GitHub Repository: [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm)  
+License: [MIT License](https://github.com/apple/ml-fastvlm/blob/main/LICENSE) (check the actual license link)
+
+We gratefully acknowledge the authors for making their code available.
+
+for academic writing : We used the official implementation of FastVLM from Apple (CVPR 2025), available at https://github.com/apple/ml-fastvlm.
